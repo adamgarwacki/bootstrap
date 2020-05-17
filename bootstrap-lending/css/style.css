@@ -1,0 +1,31 @@
+* {
+    font-family: 'Raleway', sans-serif;;
+}
+
+.form-header {
+    margin: 0px;
+    background-color: rgba(0, 0, 0, 0.288);
+}
+
+/* .container {
+    height: ;
+} */
+
+.dolacz {
+    background-image: url("../img/form-background.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.dolacz-container {
+    height: 750px;
+}
+
+#dolacz-form {
+    width: 90%;
+    margin: auto;
+}
+
+header > div {
+    padding-left: 8px;
+}
